@@ -97,12 +97,11 @@ p {
         left: 50%;
         transform: translate(-50%, -50%);
         flex-direction: row;
-        width: 550px;
-        height: 450px;
+        width: 575px;
+        height: 425px;
     }
     .card img {
         border-radius: 10px 0px 0px 10px;
-    }
-    .product-content{
+        flex-basis: 287,5px;
     }
 }
